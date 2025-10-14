@@ -1,0 +1,11 @@
+.content-performance-chart {
+  height: 300px;
+  width: 100%;
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  .content-performance-chart {
+    height: 250px;
+  }
+}

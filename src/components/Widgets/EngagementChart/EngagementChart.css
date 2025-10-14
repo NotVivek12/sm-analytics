@@ -1,0 +1,11 @@
+.engagement-chart {
+  height: 300px;
+  width: 100%;
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  .engagement-chart {
+    height: 250px;
+  }
+}
